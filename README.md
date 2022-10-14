@@ -4,6 +4,8 @@ A simple keylogging application for Windows, written in C++17.
 Very rudimentary, so don't be expecting too much from it.
 Works fine for logging keystrokes during day-to-day activities such as browsing the web, playing games, messaging, etc.
 
+Find the blog post at: https://hecktheplanet.wordpress.com/2022/08/14/0x01-i-know-what-you-typed-last-summer/
+
 May or may not get flagged by Windows Defender or similar AntiVirus software. 
 It is recommended to heed to the warning.
 
